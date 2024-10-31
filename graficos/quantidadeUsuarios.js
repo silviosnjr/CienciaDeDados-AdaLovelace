@@ -43,7 +43,7 @@ async function quantidadeUsuarios() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: "Bilhoes de praticantes",
+                text: "Praticantes",
                 font: {
                     color: getCSS('--secundary-color')
                 }
